@@ -1,0 +1,8 @@
+A good Design must be :
+ - Supporting Code reuse
+ - Extensibility
+
+SOLID PRINCIPLE:
+- SOLID is a mnemonic for five design principles intended to make software designs more understandable, flexible and maintainable.
+
+++ Single Responsibility principle
